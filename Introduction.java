@@ -14,6 +14,7 @@ public class Introduction
         System.out.println("I was born in Spartanburg, SC");
         System.out.println("I would like to go to Clemson");
         System.out.println("I like to fish and I work at Bojangles");
+        System.out.println("My favorite color is orange");
         
         int year = 2017;
         int age = 16;
